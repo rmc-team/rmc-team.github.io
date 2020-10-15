@@ -12,14 +12,14 @@ I'm Julian Fairfax, the founder of RMC. I have experience in bash scripting and 
 
 ## Larsvonhier
 
-I'm Larsvonhier, a member of RMC. I have experience in both hardware and software modification. Is known for running macOS 10.14 Mojave on a MacBook4,1.
+I'm Larsvonhier, a member of RMC. I have experience in both hardware and software modification. I'm known for running macOS 10.14 Mojave on a MacBook4,1.
 
 ### Social
 - [MacRumours Forums](https://forums.macrumors.com/members/1041077/)
 
 ## mario_bros_tech
 
-I'm mario_bros_tech, a member of RMC. I currently uses macOS Patcher on his MacBook4,1. Also has a supported iMac15,1 as a mission-critical machine for schoolwork.
+I'm mario_bros_tech, a member of RMC. I currently use macOS Patcher on his MacBook4,1. I also have a supported iMac15,1 as a mission-critical machine for schoolwork.
 
 ### Social
 - [GitHub](https://github.com/mariobrostech)
