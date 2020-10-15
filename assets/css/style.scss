@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+  background: #56748f;
+  isolation: isolate;
+}
+
+.main-content {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #000000;
+  }
+}
+
+a {
+  color: #424242;
+  text-decoration: underline;
+}
+
+p, li {
+  color: #424242;
+}
