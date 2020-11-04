@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background: #56748f;
-  isolation: isolate;
+  background: #eeeeee;
+  color: #000000;
 }
 
 .main-content {
@@ -25,9 +25,13 @@ a {
 }
 
 p, li {
-  color: #424242;
+  color: #616161;
 }
 
 .site-footer-credits {
   color: #424242;
+}
+
+.darkmode--activated .woot-widget-bubble {
+  filter: invert(100%)
 }
