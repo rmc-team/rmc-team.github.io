@@ -1,3 +1,35 @@
 ---
 title: Updates
 ---
+
+## macOS Patcher 3.4.7
+### 06.12.20
+Today, RMC released version 3.4.7 of [macOS Patcher](https://github.com/rmc-team/macos-patcher/releases/tag/3.4.7). Releases notes: 
+- Fix issue with external iSight cameras
+
+## Spoofer 2.3
+### 28.11.20
+Today, RMC released version 2.3 of [Spoofer](https://github.com/rmc-team/spoofer/releases/tag/2.3), Releases notes: 
+- Add Spoofer in background for macOS: Spoofs your MAC address on startup.
+
+## Spoofer 2.2
+### 14.11.20
+Today, RMC released version 2.2 of [Spoofer](https://github.com/rmc-team/spoofer/releases/tag/2.2), a command line tool to spoof your MAC address and scan your network. Releases notes: 
+- Improve support for macOS
+- Improve support for Linux
+- Cleanup code
+- Bug fixes and improvements
+
+## macOS Patcher 3.4.6
+### 14.10.20
+Today, RMC released version 3.4.6 of [macOS Patcher](https://github.com/rmc-team/macos-patcher/releases/tag/3.4.6). Releases notes: 
+- Fix AMFI issue
+- Add option to update patched installer
+- Bug fixes and improvements
+
+## macOS Downloader 2.4.6
+### 14.10.20
+Today, RMC released version 2.4.6 of [macOS Downloader](https://github.com/rmc-team/macos-downloader/releases/tag/2.4.6). Releases notes: 
+- Add support for 11.0 final
+- Add option to use local catalog
+- Bug fixes and improvements
