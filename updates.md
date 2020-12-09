@@ -2,6 +2,10 @@
 title: Updates
 ---
 
+## Seting up discussions
+### 09.12.20
+Discussions have been setup on our 3 main repositories and we hope they'll help us better interact with the community!
+
 ## macOS Patcher 3.4.7
 ### 06.12.20
 Today, RMC released version 3.4.7 of [macOS Patcher](https://github.com/rmc-team/macos-patcher/releases/tag/3.4.7). Releases notes: 
