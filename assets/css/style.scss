@@ -32,6 +32,15 @@ p, li {
   color: #424242;
 }
 
+.main-content pre {
+  background: #f5f5f5;
+  border: none;
+}
+
+.main-content pre > code {
+  color: #616161;
+}
+
 .darkmode--activated .woot-widget-bubble {
   filter: invert(100%)
 }
