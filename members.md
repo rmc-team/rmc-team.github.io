@@ -20,8 +20,16 @@ I'm Larsvonhier, a member of RMC. I have experience in both hardware and softwar
 
 ## mario_bros_tech
 
-I'm mario_bros_tech, a member of RMC. I currently use macOS Patcher on his MacBook4,1. I also have a supported iMac15,1 as a mission-critical machine for schoolwork.
+I'm mario_bros_tech, a member of RMC. I currently use macOS Patcher on my MacBook4,1. I also have a supported iMac15,1 for schoolwork.
 
 ### Social
 - [GitHub](https://github.com/mariobrostech)
 - [MacRumours Forums](https://forums.macrumors.com/members/1113527/)
+
+## datcuandrei
+
+I'm datcuandrei, a member of RMC. I have experience in software creation and modification. I'm the creator of MacLinuxUtils and other tools/modifications.
+
+### Social
+- [GitHub](https://github.com/datcuandrei/)
+- [Website](http://datcuandrei.github.io/)
