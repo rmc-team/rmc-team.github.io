@@ -1,7 +1,9 @@
 ---
-title: Patching macOS to run on unsupported Macs
+title: Docs
 ---
 
+
+## Patching macOS to run on unsupported Macs
 
 ### Who am I?
 My name is Julian Fairfax and I’m the founder and leader of Research, Modification, Customization, and it’s team of researchers, developers, and more.
