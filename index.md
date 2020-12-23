@@ -9,4 +9,5 @@ We are RMC, a team of people around the world who have a passion for computing a
 Check out our GitHub for projects and documentation!
 
 ### Social
+- [Element](https://matrix.to/#/+rmc:matrix.org)
 - [GitHub](https://github.com/rmc-team)
