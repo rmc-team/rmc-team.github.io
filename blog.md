@@ -3,6 +3,10 @@ title: Blog
 ---
 
 
+## [Why use Element?](/blog/251220/why-use-element.md)
+### 25th of December 2020 / 25.12.20
+Preview: "If you saw our latest blog post you're probably wondering why we chose Element for our communication with users (and internal use). The answer is simple: privacy..."
+
 ## Our new Element community
 ### 23rd of December 2020 / 23.12.20
 We've created a new Element community for our users to reach us more easily, and for our members to better communicate. If you're interested, you can find the link on our home page.
