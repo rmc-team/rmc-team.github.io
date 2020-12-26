@@ -24,6 +24,7 @@ I'm Larsvonhier, a member of RMC. I have experience in both hardware and softwar
 I'm mario_bros_tech, a member of RMC. I currently use macOS Patcher on my MacBook4,1. I also have a supported iMac15,1 for schoolwork.
 
 ### Social
+- [Element](https://matrix.to/#/@mariobrostech:matrix.org)
 - [GitHub](https://github.com/mariobrostech)
 - [MacRumours Forums](https://forums.macrumors.com/members/1113527/)
 
@@ -32,5 +33,6 @@ I'm mario_bros_tech, a member of RMC. I currently use macOS Patcher on my MacBoo
 I'm datcuandrei, a member of RMC. I have experience in software creation and modification. I'm the creator of MacLinuxUtils and other tools/modifications.
 
 ### Social
+- [Element](https://matrix.to/#/@datcuandrei:matrix.org)
 - [GitHub](https://github.com/datcuandrei/)
 - [Website](http://datcuandrei.github.io/)
