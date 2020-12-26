@@ -19,8 +19,12 @@
   }
 }
 
-a {
+.main-content {
   color: #424242;
+}
+
+a {
+  color: inherit;
   text-decoration: underline;
 }
 
@@ -39,8 +43,4 @@ p, li {
 
 .main-content pre > code {
   color: #616161;
-}
-
-.darkmode--activated .woot-widget-bubble {
-  filter: invert(100%)
 }
