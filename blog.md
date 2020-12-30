@@ -3,6 +3,10 @@ title: Blog
 ---
 
 
+## [BackToMac + macOS Patcher = macOS Patcher on Linux?](/blog/281220/backtomac+macos-patcher.md)
+### 28th of December 2020 / 28.12.20
+Preview: "[BackToMac](https://github.com/datcuandrei/BackToMac) is an automated utility for Linux that creates bootable macOS installer USBs. Every version of macOS that is included with BackToMac is patched to work both on both supported Macs and unsupported Macs with macOS Patcher's patches. Is this macOS Patcher for Linux..."
+
 ## [Why use Element?](/blog/251220/why-use-element.md)
 ### 25th of December 2020 / 25.12.20
 Preview: "If you saw our latest blog post you're probably wondering why we chose Element for our communication with users (and internal use). The answer is simple: privacy..."
