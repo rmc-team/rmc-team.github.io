@@ -3,6 +3,10 @@ title: Blog
 ---
 
 
+## [Switching to Linux](https://julian-fairfax.github.io/blog/200121/switching-to-linux)
+### 20th of January 2021 / 20.01.21
+Preview: "If you saw my blog post from last year (unfortunately I don't have a link to it), then'll probably already know why I'm switching to Linux, but if you haven't, here's why..."
+
 ## [BackToMac + macOS Patcher = macOS Patcher on Linux?](/blog/281220/backtomac+macos-patcher.md)
 ### 28th of December 2020 / 28.12.20
 Preview: "[BackToMac](https://github.com/datcuandrei/BackToMac) is an automated utility for Linux that creates bootable macOS installer USBs. Every version of macOS that is included with BackToMac is patched to work both on both supported Macs and unsupported Macs with macOS Patcher's patches. Is this macOS Patcher for Linux..."
