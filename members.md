@@ -4,7 +4,7 @@ title: Members
 
 ## Julian Fairfax
 
-I'm Julian Fairfax, the founder of RMC. I have experience in bash scripting and software modification, specifically macOS. I'm the creator of macOS Patcher and other tools/modifications.
+I'm Julian Fairfax, the founder of RMC. I have experience in bash scripting and software modification on macOS and Linux. I'm the creator of various open source bash scripts, tools, and modifications.
 
 ### Social
 - [Element](https://matrix.to/#/@juliannfairfax:matrix.org)
