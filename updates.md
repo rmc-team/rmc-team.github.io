@@ -2,6 +2,12 @@
 title: Updates
 ---
 
+## macOS Downloader 2.4.7
+### 29th of January 2021 / 29.01.21
+Today, RMC released version 2.4.7 of [macOS Downloader](https://github.com/rmc-team/macos-downloader/releases/tag/2.4.7). Releases notes: 
+- Fix for issue #23
+- Bug fixes and improvements
+
 ## macOS Patcher 3.4.7
 ### 6th of December 2020 / 06.12.20
 Today, RMC released version 3.4.7 of [macOS Patcher](https://github.com/rmc-team/macos-patcher/releases/tag/3.4.7). Releases notes: 
