@@ -18,6 +18,10 @@ navigation a {
   padding-right: 10px;
 }
 
+.darkmode--activated navigation {
+  filter: invert(100%);
+}
+
 .page-header {
   margin-top: 60px;
   background: #eeeeee;
