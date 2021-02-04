@@ -3,7 +3,23 @@
 
 @import "{{ site.theme }}";
 
+navigation {
+  width: 100%;
+  height: 60px;
+  padding: 15px 30px;
+  background: #e0e0e0;
+  color: #424242;
+  position: fixed;
+  margin-top: -60px;
+}
+
+navigation a {
+  text-decoration: none;
+  padding-right: 10px;
+}
+
 .page-header {
+  margin-top: 60px;
   background: #eeeeee;
   color: #000000;
 }

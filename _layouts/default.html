@@ -20,6 +20,15 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    <navigation>
+      <a href="/">Home</a>
+      <a href="/members">Members</a>
+      <a href="/updates">Updates</a>
+      <a href="/blog">Blog</a>
+      <a href="/docs">Docs</a>
+      <a href="/contact">Contact</a>
+    </navigation>
+
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
@@ -33,7 +42,6 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <a href="/">Home</a> | <a href="/members">Members</a> | <a href="/updates">Updates</a> | <a href="/blog">Blog</a> | <a href="/docs">Docs</a> | <a href="/contact">Contact</a>
       {{ content }}
 
       <span class="site-footer-credits">This site is maintained by Julian Fairfax.</span>
