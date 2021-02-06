@@ -11,6 +11,9 @@ navigation {
   color: #424242;
   position: fixed;
   margin-top: -60px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  white-space: nowrap;
 }
 
 navigation a {
