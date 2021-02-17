@@ -6,7 +6,7 @@
 navigation {
   width: 100%;
   height: 60px;
-  padding: 15px 30px;
+  padding: 15px 30px 15px 100px;
   background: #e0e0e0;
   color: #424242;
   position: fixed;
@@ -21,7 +21,20 @@ navigation a {
   padding-right: 10px;
 }
 
+navigation img {
+  width: 40px;
+  height: 40px;
+  background-size: 40px;
+  position: fixed;
+  top: 10px;
+  left: 30px;
+}
+
 .darkmode--activated navigation {
+  filter: invert(100%);
+}
+
+.darkmode--activated navigation img {
   filter: invert(100%);
 }
 
