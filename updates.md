@@ -2,6 +2,10 @@
 title: Updates
 ---
 
+## Pi Capsule Project 1.0
+### 30th of February 2021 / 30.02.21
+Today, RMC released the first version of [Pi Capsule Project](https://github.com/rmc-team/pi-capsule-project/releases/tag/1.0), a Linux command line tool to replicate the functionality of an Apple Time Capsule using a Raspberry Pi.
+
 ## macOS Downloader 2.4.7
 ### 29th of January 2021 / 29.01.21
 Today, RMC released version 2.4.7 of [macOS Downloader](https://github.com/rmc-team/macos-downloader/releases/tag/2.4.7). Releases notes: 
