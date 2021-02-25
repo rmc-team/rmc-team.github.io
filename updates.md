@@ -2,8 +2,13 @@
 title: Updates
 ---
 
+## Pi Capsule Project 1.1
+### 25th of February 2021 / 25.02.21
+Today, RMC released version 1.1 of [Pi Capsule Project](https://github.com/rmc-team/pi-capsule-project/releases/tag/1.1). Releases notes: 
+- Use systemd for networking (requires reinstalling the OS and Pi Capsule Project)
+
 ## Pi Capsule Project 1.0
-### 30th of February 2021 / 30.02.21
+### 20th of February 2021 / 20.02.21
 Today, RMC released the first version of [Pi Capsule Project](https://github.com/rmc-team/pi-capsule-project/releases/tag/1.0), a Linux command line tool to replicate the functionality of an Apple Time Capsule using a Raspberry Pi.
 
 ## macOS Downloader 2.4.7
