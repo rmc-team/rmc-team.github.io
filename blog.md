@@ -3,6 +3,10 @@ title: Blog
 ---
 
 
+## [Ending development of macOS projects](/blog/020321/end-of-development.md)
+### 02.03.21
+Preview: "Following the posting of [Switching to Linux](https://julian-fairfax.github.io/blog/200121/switching-to-linux) on the 20th of January and the announcment that I was leaving the macOS on unsupported Macs community, I've been thinking of how I can continue to provide support for and fix issues in my macOS projects..."
+
 ## [Switching to Linux](https://julian-fairfax.github.io/blog/200121/switching-to-linux)
 ### 20th of January 2021 / 20.01.21
 Preview: "If you saw my blog post from last year (unfortunately I don't have a link to it), then'll probably already know why I'm switching to Linux, but if you haven't, here's why..."
