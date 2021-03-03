@@ -4,7 +4,7 @@ title: Blog
 
 
 ## Ending development of macOS projects
-### 02.03.21
+### 2nd of March 2021 / 02.03.21
 
 Following the posting of [Switching to Linux](https://julian-fairfax.github.io/blog/200121/switching-to-linux) on the 20th of January and the announcment that I was leaving the macOS on unsupported Macs community, I've been thinking of how I can continue to provide support for and fix issues in my macOS projects and I've come to the conclusion that I can't.
 

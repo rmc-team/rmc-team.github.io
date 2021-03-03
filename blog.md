@@ -3,8 +3,12 @@ title: Blog
 ---
 
 
+## [Pi Capsule Project](https://julian-fairfax.github.io/blog/030321/pi-capsule-project)
+### 3rd of March 2021 / 03.02.21
+Preview: "On the 20th of February I released the first version of Pi Capsule Project, which is a Linux command line tool to configure a Pi Capsule: an AFP server, SMB server, and Wi-Fi network designed to replicate the functionality of an Apple Time Capsule using a Raspberry Pi with free and open-source software..."
+
 ## [Ending development of macOS projects](/blog/020321/end-of-development.md)
-### 2th of March 2021 / 02.03.21
+### 2nd of March 2021 / 02.03.21
 Preview: "Following the posting of [Switching to Linux](https://julian-fairfax.github.io/blog/200121/switching-to-linux) on the 20th of January and the announcment that I was leaving the macOS on unsupported Macs community, I've been thinking of how I can continue to provide support for and fix issues in my macOS projects..."
 
 ## [Switching to Linux](https://julian-fairfax.github.io/blog/200121/switching-to-linux)
